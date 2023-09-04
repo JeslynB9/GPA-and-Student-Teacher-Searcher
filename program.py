@@ -1,10 +1,3 @@
-'''
-Name: Jeslyn Joylie Bowman
-SID: 530481526
-Unikey: jbow2146
-'''
-
-
 def add_course():
     # Get course code from user
     course_code = input("Enter the course code: ").upper()
