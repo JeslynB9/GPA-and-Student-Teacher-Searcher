@@ -1,14 +1,3 @@
-'''
-Name: Jeslyn Joylie Bowman
-SID: 530481526
-Unikey: jbow2146
-'''
-
-'''
-Do not edit the following line - it is required to pass the testcases.
-In your test suite, write tests targeting this function.
-The function can be called like normal functions, e.g. is_valid_credit_hour()
-'''
 from program import is_valid_credit_hour
 from unittest.mock import patch
 
