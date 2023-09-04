@@ -1,9 +1,3 @@
-'''
-You are free to do this part of the question using any format as you like
-but if you are planning to use a table, the template below might be helpful. 
-You can create something similar on https://tableconvert.com/markdown-generator
-'''
-
 <add_course>
 
 | Test ID | Test Category | Description                                                  | Input                                                     | Expected Output                                                          | Status |
